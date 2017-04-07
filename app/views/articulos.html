@@ -1,0 +1,9 @@
+<h1>Artículos</h1>
+<uib-accordion close-others="oneAtATime">
+	<div uib-accordion-group heading="{{post.title}}" ng-repeat="post in posts">
+		<!-- <uib-accordion-heading>
+		{{post.title}}
+		</uib-accordion-heading> -->
+			{{post.content}}
+	</div>
+</uib-accordion>

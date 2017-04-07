@@ -1,0 +1,12 @@
+
+
+[
+{"no":"1", "nombre":"Keylor", "fidelidad": "6", "fechaUnion":"01/07/2014", "tipoMiembro":"portero"},
+{"no":"2", "nombre":"S Ramos", "fidelidad": "8", "fechaUnion":"01/07/2004", "tipoMiembro":"defensa"},
+{"no":"7", "nombre":"Cristiano", "fidelidad": "8", "fechaUnion":"01/07/2008", "tipoMiembro":"delantero"},
+{"no":"20", "nombre":"Asensio", "fidelidad": "7", "fechaUnion":"01/07/2016", "tipoMiembro":"medio"},
+{"no":"14", "nombre":"Casemiro", "fidelidad": "6", "fechaUnion":"01/07/2014", "tipoMiembro":"medio"},
+{"no":"11", "nombre":"Bale", "fidelidad": "8", "fechaUnion":"01/07/2013", "tipoMiembro":"delantero"}
+]
+
+
